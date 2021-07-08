@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LightCounter", "LightCounter\LightCounter.vbproj", "{7BAF8544-1C62-49B6-B3D7-F5E55679BC06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BAF8544-1C62-49B6-B3D7-F5E55679BC06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BAF8544-1C62-49B6-B3D7-F5E55679BC06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BAF8544-1C62-49B6-B3D7-F5E55679BC06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BAF8544-1C62-49B6-B3D7-F5E55679BC06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {369A120C-5C36-4C0F-A32B-3FAA6D91C386}
+	EndGlobalSection
+EndGlobal

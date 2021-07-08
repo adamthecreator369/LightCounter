@@ -1,0 +1,24 @@
+C:\Users\Student\source\repos\LightCounter\LightCounter\bin\Debug\LightCounter.exe.config
+C:\Users\Student\source\repos\LightCounter\LightCounter\bin\Debug\LightCounter.exe
+C:\Users\Student\source\repos\LightCounter\LightCounter\bin\Debug\LightCounter.pdb
+C:\Users\Student\source\repos\LightCounter\LightCounter\bin\Debug\LightCounter.xml
+C:\Users\Student\source\repos\LightCounter\LightCounter\obj\Debug\LightCounter.vbprojAssemblyReference.cache
+C:\Users\Student\source\repos\LightCounter\LightCounter\obj\Debug\LightCounter.Main.resources
+C:\Users\Student\source\repos\LightCounter\LightCounter\obj\Debug\LightCounter.Resources.resources
+C:\Users\Student\source\repos\LightCounter\LightCounter\obj\Debug\LightCounter.vbproj.GenerateResource.cache
+C:\Users\Student\source\repos\LightCounter\LightCounter\obj\Debug\LightCounter.vbproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\LightCounter\LightCounter\obj\Debug\LightCounter.exe
+C:\Users\Student\source\repos\LightCounter\LightCounter\obj\Debug\LightCounter.xml
+C:\Users\Student\source\repos\LightCounter\LightCounter\obj\Debug\LightCounter.pdb
+C:\Users\Student\Desktop\LightsOn (2)\LightsOn\LightCounter\bin\Debug\LightCounter.exe.config
+C:\Users\Student\Desktop\LightsOn (2)\LightsOn\LightCounter\bin\Debug\LightCounter.exe
+C:\Users\Student\Desktop\LightsOn (2)\LightsOn\LightCounter\bin\Debug\LightCounter.pdb
+C:\Users\Student\Desktop\LightsOn (2)\LightsOn\LightCounter\bin\Debug\LightCounter.xml
+C:\Users\Student\Desktop\LightsOn (2)\LightsOn\LightCounter\obj\Debug\LightCounter.vbprojAssemblyReference.cache
+C:\Users\Student\Desktop\LightsOn (2)\LightsOn\LightCounter\obj\Debug\LightCounter.Resources.resources
+C:\Users\Student\Desktop\LightsOn (2)\LightsOn\LightCounter\obj\Debug\LightCounter.vbproj.GenerateResource.cache
+C:\Users\Student\Desktop\LightsOn (2)\LightsOn\LightCounter\obj\Debug\LightCounter.vbproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\LightsOn (2)\LightsOn\LightCounter\obj\Debug\LightCounter.exe
+C:\Users\Student\Desktop\LightsOn (2)\LightsOn\LightCounter\obj\Debug\LightCounter.xml
+C:\Users\Student\Desktop\LightsOn (2)\LightsOn\LightCounter\obj\Debug\LightCounter.pdb
+C:\Users\Student\Desktop\LightsOn (2)\LightsOn\LightCounter\obj\Debug\LightCounter.MainForm.resources
